@@ -1,0 +1,33 @@
+.nav{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 40px 120px;
+    color: white;
+}
+.nav-log{
+    /* font-family: Outfit;
+    font-size: 42px;
+    font-weight: 500; */
+    height: 100px;
+    width: 200px;
+    border-radius: 10px;
+    background-image: url('C:\Users\Asus\ev website\src\assets\byd-auto2670.logowik.com.webp');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.nav-menu{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    font-size: 18px;
+    gap:90px;
+}
+.nav-contact{
+    border-radius:50px;
+    padding:10px 38px;
+    background: #fff;
+    color: #262626;
+}
